@@ -8,7 +8,7 @@
     <description>Audios do canal do YouTube: caveiracadar09</description>
     <link>https://raw.githubusercontent.com/BelugaAzul/meu-podcast/main/rss.xml</link>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 24 May 2026 03:37:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 03:37:51 +0000</lastBuildDate>
 
     <itunes:author>CaveiraCadar09</itunes:author>
     <itunes:category text="Technology"/>
@@ -19,6 +19,29 @@
       <itunes:email>miltoncesarjunior@hotmail.com</itunes:email>
     </itunes:owner>
     
+    <item>
+      <title>RC 393- O GUARDA VAI CASAR!!!!!!! (meu pedido de casamento)</title>
+      <description>A VIDA EXIGE
+
+EU n vim de boas condições, comecei s namorar a Gabi, ela estudante e eu Aspirante
+
+Por convergência do destino, começamos a morar juntos com 2 anos de namoro.
+
+Gabi é durona mas isso é casca, ela é minha menina e os sonhos de menina vive nela, ela sonhava com casamento, mas na época n tinha condição, expliquei para ela minha estratégia
+
+Ela entendeu e escondeu o sonho
+
+Mas eu n, todos os sonhos dela que n pude realizar pela minha condição, hj eu vou realizar!!!!
+
+O GUARDA VAI CASAR
+
+SEJA MEMBRO OSRA FORTALECER, vou precisar</description>
+      <enclosure url="https://github.com/BelugaAzul/meu-podcast/releases/download/episodios/RC 393- O GUARDA VAI CASAR meu pedido de casamento.mp3" type="audio/mpeg"/>
+      <guid>https://github.com/BelugaAzul/meu-podcast/releases/download/episodios/RC 393- O GUARDA VAI CASAR meu pedido de casamento.mp3</guid>
+      <pubDate>Sun, 24 May 2026 03:37:51 +0000</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:episode>9</itunes:episode>
+    </item>
     <item>
       <title>A Gente Tem Que Taxar Idiotas</title>
       <description>🔴 TORNE-SE MEMBRO DO CANAL
