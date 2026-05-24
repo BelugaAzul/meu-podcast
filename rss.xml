@@ -8,7 +8,7 @@
     <description>Audios do canal do YouTube: caveiracadar09</description>
     <link>https://raw.githubusercontent.com/BelugaAzul/meu-podcast/main/rss.xml</link>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 24 May 2026 03:37:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 03:37:57 +0000</lastBuildDate>
 
     <itunes:author>CaveiraCadar09</itunes:author>
     <itunes:category text="Technology"/>
@@ -19,6 +19,26 @@
       <itunes:email>miltoncesarjunior@hotmail.com</itunes:email>
     </itunes:owner>
     
+    <item>
+      <title>Você é MULHERENGO (vai ficar pelo caminho)</title>
+      <description>O tempo do &quot;garotão&quot; já passou.
+
+Com 15 anos, achar que a vida é colecionar contatinhos é normal. Com 30, é só um sinal de que você ficou estagnado enquanto o mundo avançou.
+
+Homem de verdade não gasta energia tentando impressionar várias; ele foca em construir o seu reino, ter dignidade e honrar quem corre junto com ele.
+
+Quando você estiver na pior, cheio de problemas e com a mente conturbada, não vai ser a vida rasa que vai te segurar. Vai ser aquela mulher que te aceitou mesmo sem entender o seu caos.
+ Se você achou essa parceira, coroa ela. O resto é distração.
+
+Cresça, foque no seu império e valorize quem te apoia na base. O topo não aceita moleque. 👑⚡
+
+Trecho extraído de: RC 308 no canal do YouTube: MENTE IMPERTURBÁVEL - PROJETO CÃO PASTOR</description>
+      <enclosure url="https://github.com/BelugaAzul/meu-podcast/releases/download/episodios/Você é MULHERENGO vai ficar pelo caminho.mp3" type="audio/mpeg"/>
+      <guid>https://github.com/BelugaAzul/meu-podcast/releases/download/episodios/Você é MULHERENGO vai ficar pelo caminho.mp3</guid>
+      <pubDate>Sun, 24 May 2026 03:37:57 +0000</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:episode>10</itunes:episode>
+    </item>
     <item>
       <title>RC 393- O GUARDA VAI CASAR!!!!!!! (meu pedido de casamento)</title>
       <description>A VIDA EXIGE
