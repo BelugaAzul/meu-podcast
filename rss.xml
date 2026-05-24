@@ -4,21 +4,30 @@
   xmlns:content="http://purl.org/rss/modules/content/">
 
   <channel>
-    <title>Nome do Seu Podcast</title>
-    <description>Descrição do seu podcast aqui.</description>
-    <link>https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/rss.xml</link>
+    <title>Caveira Cadar 09</title>
+    <description>Audios do canal do YouTube: caveiracadar09</description>
+    <link>https://raw.githubusercontent.com/BelugaAzul/meu-podcast/main/rss.xml</link>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 24 May 2026 01:12:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 03:15:48 +0000</lastBuildDate>
 
-    <itunes:author>Seu Nome</itunes:author>
+    <itunes:author>CaveiraCadar09</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:image href="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/capa.jpg"/>
+    <itunes:image href="https://raw.githubusercontent.com/BelugaAzul/meu-podcast/main/capa.jpg"/>
     <itunes:owner>
-      <itunes:name>Seu Nome</itunes:name>
-      <itunes:email>seu@email.com</itunes:email>
+      <itunes:name>CaveiraCadar09</itunes:name>
+      <itunes:email>miltoncesarjunior@hotmail.com</itunes:email>
     </itunes:owner>
     
+    <item>
+      <title>Meu Video de Teste</title>
+      <description>Episodio gerado automaticamente do YouTube</description>
+      <enclosure url="https://github.com/BelugaAzul/meu-podcast/releases/download/episodios/meu video de teste.mp3" type="audio/mpeg"/>
+      <guid>https://github.com/BelugaAzul/meu-podcast/releases/download/episodios/meu video de teste.mp3</guid>
+      <pubDate>Sun, 24 May 2026 03:15:48 +0000</pubDate>
+      <itunes:duration>00:11:13</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+    </item>
     <item>
       <title>Episódio 2 - Segundo vídeo</title>
       <description>Segundo episódio gerado automaticamente do YouTube.</description>
