@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/modules/content/">
+
+  <channel>
+    <title>Nome do Seu Podcast</title>
+    <description>Descrição do seu podcast aqui.</description>
+    <link>https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/rss.xml</link>
+    <language>pt-BR</language>
+    <lastBuildDate>Sun, 24 May 2026 01:12:48 +0000</lastBuildDate>
+
+    <itunes:author>Seu Nome</itunes:author>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/capa.jpg"/>
+    <itunes:owner>
+      <itunes:name>Seu Nome</itunes:name>
+      <itunes:email>seu@email.com</itunes:email>
+    </itunes:owner>
+    
+    <item>
+      <title>Episódio 2 - Segundo vídeo</title>
+      <description>Segundo episódio gerado automaticamente do YouTube.</description>
+      <enclosure url="https://github.com/SEU_USUARIO/SEU_REPO/releases/download/episodios/episodio-02.mp3" type="audio/mpeg"/>
+      <guid>https://github.com/SEU_USUARIO/SEU_REPO/releases/download/episodios/episodio-02.mp3</guid>
+      <pubDate>Sun, 24 May 2026 01:12:48 +0000</pubDate>
+      <itunes:duration>00:40:00</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+    </item>
+    <item>
+      <title>Episódio 1 - Introdução</title>
+      <description>Primeiro episódio do podcast, apresentando o canal.</description>
+      <enclosure url="https://github.com/SEU_USUARIO/SEU_REPO/releases/download/episodios/episodio-01.mp3" type="audio/mpeg"/>
+      <guid>https://github.com/SEU_USUARIO/SEU_REPO/releases/download/episodios/episodio-01.mp3</guid>
+      <pubDate>Sun, 24 May 2026 01:12:48 +0000</pubDate>
+      <itunes:duration>00:30:00</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+    </item>
+  </channel>
+</rss>
